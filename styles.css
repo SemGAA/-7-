@@ -1,0 +1,19 @@
+#app {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 15px;
+}
+
+.track {
+    margin: 10px 0;
+}
